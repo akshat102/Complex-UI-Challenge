@@ -2,6 +2,9 @@
 
 A new Flutter application.
 
+# Preview
+  <img src = 'assets/20200613_234404.gif' height=400 width=200 hspace=50>
+  
 ## Getting Started
 
 This project is a starting point for a Flutter application.
