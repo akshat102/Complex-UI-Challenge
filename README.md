@@ -3,7 +3,7 @@
 A new Flutter application.
 
 ## Preview
-  <img src = 'assets/20200613_234404.gif' height=600 width=300 hspace=200>
+  <img src = 'assets/20200613_234404.gif' height=600 width=300 hspace=300>
   
 ## Getting Started
 
